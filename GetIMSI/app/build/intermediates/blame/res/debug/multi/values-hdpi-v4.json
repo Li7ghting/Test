@@ -1,0 +1,28 @@
+[
+    {
+        "outputFile": "E:\\AndroidCodePre\\TestCode\\Test\\GetIMSI\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-hdpi-v4\\values-hdpi-v4.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 6,
+                    "endColumn": 13,
+                    "endOffset": 327
+                },
+                "from": {
+                    "file": "C:\\Users\\canguang.liu\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-beta2.aar\\063b3ee4ac90dbe381b7411ef03734d1\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 6,
+                        "endColumn": 13,
+                        "endOffset": 327
+                    }
+                }
+            }
+        ]
+    }
+]
